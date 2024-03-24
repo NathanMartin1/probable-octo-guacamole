@@ -1,0 +1,25 @@
+.header {
+     border-style: none;
+     border-radius: 5px;
+     background-color: red;
+     font-family: "Rubik Maze", system-ui;
+     font-weight: 500;
+     font-style: normal;
+     color: white;
+     font-size: 90px;
+     top: 50px;
+     cursor:alias;    
+}
+.button2 {
+    border-style: none;
+    border-radius: 5px;
+    background-color: orange;
+    font-family: "Rubik Maze", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    color: white;
+    font-size: 25px;
+    top: 1800px;
+    cursor: grab;
+
+}
